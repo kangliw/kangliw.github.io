@@ -49,7 +49,7 @@ params:
     profileMode:
           enabled: true
           title: Kangli Wang
-          subtitle: "I am a PhD student in Sociology at the University of Connecticut. My research examines how immigrants navigate STEM field selection across countries, using large-scale survey data (PIAAC, OECD). I combine quantitative methods with comparative policy analysis to study immigration, education, and workforce outcomes. I am interested in careers in policy research, data science, and applied social science."
+          subtitle: "I am a PhD student in Sociology at the University of Connecticut. My research examines how immigrants navigate STEM field selection across countries, using large-scale OECD survey data. I combine quantitative methods with comparative policy analysis to study immigration, education, and workforce outcomes. I am interested in careers in policy research, data science, and applied social science."
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
